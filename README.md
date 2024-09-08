@@ -52,7 +52,7 @@ This analysis offers key insights into patient demographics, medical conditions,
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/your-repo-name/health-analysis.git
+git clone https://github.com/your-repo-name/health_analysis.git
 ```
 
 ### Install Dependencies:
